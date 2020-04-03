@@ -8,10 +8,10 @@ jupyter labextension install nglview-js-widgets
 
 # pyiron setup
 printf "[DEFAULT]\nTOP_LEVEL_DIRS = ${HOME}\nRESOURCE_PATHS = ${HOME}/resources" > ${HOME}/.pyiron
-git clone --single-branch --branch jth https://github.com/pyiron/pyiron-resources.git ${HOME}/resources
+git clone https://github.com/pyiron/pyiron-resources.git ${HOME}/resources
 
 # pyiron latest 
-git clone --single-branch --branch spx_potential https://github.com/pyiron/pyiron.git 
+git clone https://github.com/pyiron/pyiron.git 
 cd pyiron 
 pip install .
 cd ..
