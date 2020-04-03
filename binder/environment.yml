@@ -5,3 +5,5 @@ dependencies:
 - pyiron
 - sphinxdft
 - nglview
+- vim
+- git
