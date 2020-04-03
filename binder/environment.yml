@@ -5,5 +5,7 @@ dependencies:
 - pyiron
 - sphinxdft
 - nglview
-- vim
-- git
+- yaff
+- molmod
+- quickff
+- tamkin
