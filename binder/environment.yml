@@ -3,8 +3,8 @@ channels:
 dependencies:
 - python
 - pyiron
-- sphinxdft=2.6.1=h5cc2dfa_3
-- mkl=2019.4=243
+- sphinxdft=2.6.1=h6ced99e_5
+- mkl=2019.5=281
 - nglview
 - yaff
 - molmod
