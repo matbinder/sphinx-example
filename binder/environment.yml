@@ -2,12 +2,6 @@ channels:
 - conda-forge
 dependencies:
 - python
-- pyiron=0.2.11
-- sphinxdft=2.6.1=h6ced99e_5
-- mkl=2019.5=281
+- pyiron
+- sphinxdft
 - nglview
-- yaff
-- molmod
-- quickff
-- tamkin
-- seekpath
